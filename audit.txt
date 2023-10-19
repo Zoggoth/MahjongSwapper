@@ -1,0 +1,168 @@
+0
+East: 3
+South: 2
+West: 2
+North: 2
+
+1
+East: 2
+South: 3
+West: 2
+North: 2
+
+2
+East: 2
+South: 2
+West: 2
+North: 3
+
+3
+East: 2
+South: 3
+West: 2
+North: 2
+
+4
+East: 2
+South: 3
+West: 2
+North: 2
+
+5
+East: 3
+South: 2
+West: 2
+North: 2
+
+6
+East: 3
+South: 2
+West: 2
+North: 2
+
+7
+East: 2
+South: 2
+West: 2
+North: 3
+
+8
+East: 2
+South: 3
+West: 2
+North: 2
+
+9
+East: 2
+South: 3
+West: 2
+North: 2
+
+10
+East: 3
+South: 2
+West: 2
+North: 2
+
+11
+East: 2
+South: 2
+West: 3
+North: 2
+
+12
+East: 2
+South: 2
+West: 2
+North: 3
+
+13
+East: 2
+South: 2
+West: 3
+North: 2
+
+14
+East: 2
+South: 2
+West: 2
+North: 3
+
+15
+East: 2
+South: 2
+West: 3
+North: 2
+
+16
+East: 2
+South: 2
+West: 3
+North: 2
+
+17
+East: 2
+South: 2
+West: 2
+North: 3
+
+18
+East: 3
+South: 2
+West: 2
+North: 2
+
+19
+East: 2
+South: 2
+West: 3
+North: 2
+
+20
+East: 2
+South: 2
+West: 2
+North: 3
+
+21
+East: 2
+South: 2
+West: 2
+North: 3
+
+22
+East: 2
+South: 2
+West: 3
+North: 2
+
+23
+East: 2
+South: 3
+West: 2
+North: 2
+
+24
+East: 2
+South: 2
+West: 3
+North: 2
+
+25
+East: 3
+South: 2
+West: 2
+North: 2
+
+26
+East: 2
+South: 3
+West: 2
+North: 2
+
+27
+East: 3
+South: 2
+West: 2
+North: 2
+

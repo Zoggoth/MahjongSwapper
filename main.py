@@ -30,7 +30,7 @@ def testSwap(dictionary, match, x, y):
     c += 1
     d -= 1
     newScore = a*a + b*b + c*c + d*d
-    return newScore < currentScore
+    return newScore < currentScore - 0.01
 
 
 def assign(inputFile):

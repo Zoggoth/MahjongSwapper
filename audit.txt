@@ -1,168 +1,360 @@
 0
-East: 3
-South: 2
-West: 2
-North: 2
+East: 5
+South: 4
+West: 5
+North: 5
 
 1
-East: 2
-South: 3
-West: 2
-North: 2
+East: 5
+South: 4
+West: 5
+North: 5
 
 2
-East: 2
-South: 2
-West: 2
-North: 3
+East: 5
+South: 5
+West: 5
+North: 4
 
 3
-East: 2
-South: 3
-West: 2
-North: 2
+East: 4
+South: 5
+West: 5
+North: 5
 
 4
-East: 2
-South: 3
-West: 2
-North: 2
+East: 5
+South: 4
+West: 5
+North: 5
 
 5
-East: 3
-South: 2
-West: 2
-North: 2
+East: 5
+South: 4
+West: 5
+North: 5
 
 6
-East: 3
-South: 2
-West: 2
-North: 2
+East: 5
+South: 5
+West: 5
+North: 4
 
 7
-East: 2
-South: 2
-West: 2
-North: 3
+East: 4
+South: 5
+West: 5
+North: 5
 
 8
-East: 2
-South: 3
-West: 2
-North: 2
+East: 5
+South: 5
+West: 4
+North: 5
 
 9
-East: 2
-South: 3
-West: 2
-North: 2
+East: 5
+South: 5
+West: 4
+North: 5
 
 10
-East: 3
-South: 2
-West: 2
-North: 2
+East: 5
+South: 4
+West: 5
+North: 5
 
 11
-East: 2
-South: 2
-West: 3
-North: 2
+East: 5
+South: 5
+West: 5
+North: 4
 
 12
-East: 2
-South: 2
-West: 2
-North: 3
+East: 4
+South: 5
+West: 5
+North: 5
 
 13
-East: 2
-South: 2
-West: 3
-North: 2
+East: 5
+South: 4
+West: 5
+North: 5
 
 14
-East: 2
-South: 2
-West: 2
-North: 3
+East: 5
+South: 4
+West: 5
+North: 5
 
 15
-East: 2
-South: 2
-West: 3
-North: 2
+East: 4
+South: 5
+West: 5
+North: 5
 
 16
-East: 2
-South: 2
-West: 3
-North: 2
+East: 5
+South: 5
+West: 4
+North: 5
 
 17
-East: 2
-South: 2
-West: 2
-North: 3
+East: 5
+South: 5
+West: 5
+North: 4
 
 18
-East: 3
-South: 2
-West: 2
-North: 2
+East: 5
+South: 4
+West: 5
+North: 5
 
 19
-East: 2
-South: 2
-West: 3
-North: 2
+East: 5
+South: 4
+West: 5
+North: 5
 
 20
-East: 2
-South: 2
-West: 2
-North: 3
+East: 5
+South: 5
+West: 4
+North: 5
 
 21
-East: 2
-South: 2
-West: 2
-North: 3
+East: 5
+South: 5
+West: 5
+North: 4
 
 22
-East: 2
-South: 2
-West: 3
-North: 2
+East: 5
+South: 5
+West: 5
+North: 4
 
 23
-East: 2
-South: 3
-West: 2
-North: 2
+East: 5
+South: 4
+West: 5
+North: 5
 
 24
-East: 2
-South: 2
-West: 3
-North: 2
+East: 5
+South: 4
+West: 5
+North: 5
 
 25
-East: 3
-South: 2
-West: 2
-North: 2
+East: 5
+South: 5
+West: 4
+North: 5
 
 26
-East: 2
-South: 3
-West: 2
-North: 2
+East: 5
+South: 5
+West: 4
+North: 5
 
 27
-East: 3
-South: 2
-West: 2
-North: 2
+East: 5
+South: 5
+West: 5
+North: 4
+
+28
+East: 5
+South: 5
+West: 4
+North: 5
+
+29
+East: 5
+South: 5
+West: 4
+North: 5
+
+30
+East: 4
+South: 5
+West: 5
+North: 5
+
+31
+East: 4
+South: 5
+West: 5
+North: 5
+
+32
+East: 5
+South: 4
+West: 5
+North: 5
+
+33
+East: 5
+South: 4
+West: 5
+North: 5
+
+34
+East: 4
+South: 5
+West: 5
+North: 5
+
+35
+East: 4
+South: 5
+West: 5
+North: 5
+
+36
+East: 4
+South: 5
+West: 5
+North: 5
+
+37
+East: 4
+South: 5
+West: 5
+North: 5
+
+38
+East: 5
+South: 4
+West: 5
+North: 5
+
+39
+East: 4
+South: 5
+West: 5
+North: 5
+
+40
+East: 5
+South: 4
+West: 5
+North: 5
+
+41
+East: 4
+South: 5
+West: 5
+North: 5
+
+42
+East: 5
+South: 5
+West: 4
+North: 5
+
+43
+East: 5
+South: 5
+West: 4
+North: 5
+
+44
+East: 4
+South: 5
+West: 5
+North: 5
+
+45
+East: 4
+South: 5
+West: 5
+North: 5
+
+46
+East: 5
+South: 5
+West: 5
+North: 4
+
+47
+East: 5
+South: 5
+West: 4
+North: 5
+
+48
+East: 5
+South: 5
+West: 4
+North: 5
+
+49
+East: 5
+South: 5
+West: 5
+North: 4
+
+50
+East: 6
+South: 5
+West: 4
+North: 4
+
+51
+East: 5
+South: 5
+West: 4
+North: 5
+
+52
+East: 5
+South: 5
+West: 5
+North: 4
+
+53
+East: 5
+South: 5
+West: 5
+North: 4
+
+54
+East: 5
+South: 5
+West: 5
+North: 4
+
+55
+East: 4
+South: 5
+West: 5
+North: 5
+
+56
+East: 5
+South: 5
+West: 4
+North: 5
+
+57
+East: 5
+South: 5
+West: 5
+North: 4
+
+58
+East: 5
+South: 5
+West: 5
+North: 4
+
+59
+East: 4
+South: 5
+West: 5
+North: 5
 
